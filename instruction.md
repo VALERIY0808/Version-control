@@ -75,3 +75,4 @@ git checkout master
 git branch -d <name>
 
 ```
+Ветка удалена
